@@ -32,7 +32,7 @@ function ProfileImg() {
   return (
     <li className="profile-img">
       <a href="#">
-        <img src={require("../../images/profile.jpg").default} alt="My Page" />
+        <img src="/assets/images/profile.jpg" alt="My Page" />
       </a>
     </li>
   );
