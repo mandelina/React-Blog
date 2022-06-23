@@ -4,6 +4,7 @@ import Twitter from "../assets/Twitter.svg";
 import Instagram from "../assets/Instagram.svg";
 import Github from "../assets/Github.svg";
 import "./sns.css";
+import { Link } from "react-router-dom";
 
 export default function Sns() {
   return (
@@ -11,24 +12,24 @@ export default function Sns() {
       <h3>Follow</h3>
       <ul className="sns">
         <li>
-          <a href="#">
+          <Link to="/react-blog">
             <img src={FaceBook} alt="Facebook" />
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#">
+          <Link to="/react-blog">
             <img src={Twitter} alt="Twitter" />
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#">
+          <Link to="/react-blog">
             <img src={Instagram} alt="Instagram" />
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#">
+          <Link to="/react-blog">
             <img src={Github} alt="GitHub" />
-          </a>
+          </Link>
         </li>
       </ul>
     </>

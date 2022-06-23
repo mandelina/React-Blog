@@ -1,7 +1,9 @@
 import React from "react";
 import "./categoriesTage.css";
+import { data } from "../../assets/data/data";
 
 export default function CategoriesTage() {
+  console.log(data);
   return (
     <ul className="categories">
       <li>

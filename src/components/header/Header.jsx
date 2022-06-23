@@ -5,6 +5,7 @@ import iconWhite from "../../assets/icon-modify-white.svg";
 import iconLogout from "../../assets/icon-logout.svg";
 import logo from "../../assets/Logo.svg";
 import profile from "../../assets/profile.jpg";
+import { Link } from "react-router-dom";
 
 function WriteBtn() {
   return (
@@ -42,9 +43,9 @@ function Logo() {
   return (
     <>
       <h1>
-        <a href="#">
+        <Link to="/react-blog">
           <img src={logo} alt="My Blog" />
-        </a>
+        </Link>
       </h1>
     </>
   );
