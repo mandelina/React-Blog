@@ -1,3 +1,16 @@
+main > .max-width {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 2.4rem;
+  position: relative;
+}
+
+.max-width {
+  width: 1224px;
+  max-width: calc(100% - 4rem);
+  margin: 0 auto;
+}
+
 .posts {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

@@ -4,7 +4,7 @@ import "./button.css";
 import iconWhite from "../../assets/icon-modify-white.svg";
 import iconLogout from "../../assets/icon-logout.svg";
 import logo from "../../assets/Logo.svg";
-import profile from "../../images/profile.jpg";
+import profile from "../../assets/profile.jpg";
 
 function WriteBtn() {
   return (
@@ -42,7 +42,7 @@ function Logo() {
   return (
     <>
       <h1>
-        <a href="./">
+        <a href="#">
           <img src={logo} alt="My Blog" />
         </a>
       </h1>

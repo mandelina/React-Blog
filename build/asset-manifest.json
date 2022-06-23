@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7988f93.css",
-    "main.js": "/static/js/main.2d04443b.js",
-    "static/media/background.jpg": "/static/media/background.9d8ffdf2b026e3a71002.jpg",
-    "static/media/Logo.svg": "/static/media/Logo.53fb08a30d5142d051a06aa1851e9f4a.svg",
-    "static/media/icon-modify-white.svg": "/static/media/icon-modify-white.9a0d493c3e70e4f1f3a5025364a2fb01.svg",
-    "static/media/icon-logout.svg": "/static/media/icon-logout.95261e56c5d691efab3245b1729f5035.svg",
-    "static/media/ArrowTop.svg": "/static/media/ArrowTop.b49d51006c9a31ea89b3.svg",
-    "index.html": "/index.html",
-    "main.b7988f93.css.map": "/static/css/main.b7988f93.css.map",
-    "main.2d04443b.js.map": "/static/js/main.2d04443b.js.map"
+    "main.css": "/react-blog/static/css/main.10080543.css",
+    "main.js": "/react-blog/static/js/main.3068f1cf.js",
+    "static/media/background.jpg": "/react-blog/static/media/background.9d8ffdf2b026e3a71002.jpg",
+    "static/media/profile.jpg": "/react-blog/static/media/profile.e2608c2bb9d5a58c15ce.jpg",
+    "static/media/post-img6.jpg": "/react-blog/static/media/post-img6.a6d2e5c9531ce3a90344.jpg",
+    "static/media/Logo.svg": "/react-blog/static/media/Logo.53fb08a30d5142d051a06aa1851e9f4a.svg",
+    "static/media/icon-modify-white.svg": "/react-blog/static/media/icon-modify-white.9a0d493c3e70e4f1f3a5025364a2fb01.svg",
+    "static/media/icon-logout.svg": "/react-blog/static/media/icon-logout.95261e56c5d691efab3245b1729f5035.svg",
+    "static/media/ArrowTop.svg": "/react-blog/static/media/ArrowTop.b49d51006c9a31ea89b3.svg",
+    "index.html": "/react-blog/index.html",
+    "main.10080543.css.map": "/react-blog/static/css/main.10080543.css.map",
+    "main.3068f1cf.js.map": "/react-blog/static/js/main.3068f1cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7988f93.css",
-    "static/js/main.2d04443b.js"
+    "static/css/main.10080543.css",
+    "static/js/main.3068f1cf.js"
   ]
 }

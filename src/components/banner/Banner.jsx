@@ -1,5 +1,5 @@
 import React from "react";
-import "./banner.css";
+import "./banner.module.css";
 
 export default function Banner() {
   return (

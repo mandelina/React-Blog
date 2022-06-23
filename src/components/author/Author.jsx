@@ -1,6 +1,6 @@
 import React from "react";
 import "./author.css";
-import profile from "../../assets/profile.jpg";
+import profile from "../../../src/assets/profile.jpg";
 
 export default function Author() {
   return (
