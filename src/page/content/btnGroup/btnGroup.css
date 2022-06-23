@@ -1,0 +1,29 @@
+.wrap-box .btn-group {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  position: absolute;
+  top: 9.2rem;
+  right: 8rem;
+  font-size: 1.6rem;
+}
+
+.btn-modify {
+  background: var(--gray-background) url(../../../assets/icon-modify.svg)
+    no-repeat 50% 50% / 1.6rem;
+  right: 13rem;
+}
+
+.btn-delete {
+  background: var(--gray-background) url(../../../assets/icon-delete.svg)
+    no-repeat 50% 50% / 1.6rem;
+}
+
+.btn-modify,
+.btn-delete {
+  width: 4rem;
+  height: 4rem;
+  border: 0;
+  border-radius: var(--border-radius);
+  transition: all 0.3s;
+}

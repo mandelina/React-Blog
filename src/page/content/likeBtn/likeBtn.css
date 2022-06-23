@@ -1,0 +1,14 @@
+.title-wrap button {
+  flex-shrink: 0;
+}
+
+.btn-like {
+  width: 12rem;
+  height: 4rem;
+  padding-left: 3rem;
+  border: 1px solid rgba(var(--red-rgb), 0.5);
+  border-radius: var(--border-radius);
+  background: var(--white-color) url(../../../assets/icon-like.svg) no-repeat
+    2.5rem 50% / 2.4rem;
+  transition: all 0.3s;
+}
