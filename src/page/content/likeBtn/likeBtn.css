@@ -12,3 +12,16 @@
     2.5rem 50% / 2.4rem;
   transition: all 0.3s;
 }
+
+.btn-like-on,
+.btn-like:hover {
+  width: 12rem;
+  height: 4rem;
+  padding-left: 3rem;
+  color: white;
+  border: 1px solid rgba(var(--red-rgb), 0.5);
+  border-radius: var(--border-radius);
+  background: var(--red-color) url(../../../assets/icon-like-white.svg)
+    no-repeat 2.5rem 50% / 2.4rem;
+  transition: all 0.3s;
+}
