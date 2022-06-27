@@ -7,7 +7,6 @@ import Footer from "../../components/footer/Footer";
 export default function Contents() {
   return (
     <>
-      <Header />
       <BannerCont />
       <PostCont />
       <Footer />

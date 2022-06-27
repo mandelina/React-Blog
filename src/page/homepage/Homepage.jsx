@@ -22,7 +22,6 @@ export default function Homepage() {
 
   return (
     <>
-      <Header />
       <Banner />
       <Posts />
       <Footer />
