@@ -1,8 +1,8 @@
 import React from "react";
-import FaceBook from "../assets/Facebook.svg";
-import Twitter from "../assets/Twitter.svg";
-import Instagram from "../assets/Instagram.svg";
-import Github from "../assets/Github.svg";
+import FaceBook from "../../assets/Facebook.svg";
+import Twitter from "../../assets/Twitter.svg";
+import Instagram from "../../assets/Instagram.svg";
+import Github from "../../assets/Github.svg";
 import "./sns.css";
 import { Link } from "react-router-dom";
 

@@ -1,7 +1,7 @@
 import React from "react";
 import profile from "../../assets/profile.jpg";
 import CategoriesTage from "../CategoriesTage/CategoriesTage";
-import Sns from "../../sns/Sns";
+import Sns from "../sns/Sns";
 import "./aside.css";
 
 export default function Aside() {
