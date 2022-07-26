@@ -9,10 +9,11 @@
 -  React , Hook , CSS
 <br>
 <br>
-<br>
-# preview
 
-- GIF 추가 예정
+# preview
+![image](https://user-images.githubusercontent.com/83548784/181008600-cbd9aa4a-e401-4a0f-83fd-60469f67cb57.png)
+![image](https://user-images.githubusercontent.com/83548784/181008688-35735936-c5d6-4c28-8e09-35bd9f68cfaa.png)
+
 
 <br>
 <br>
