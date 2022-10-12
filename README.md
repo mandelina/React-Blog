@@ -7,6 +7,7 @@
 <br>
 
 ## 🛠️ 사용한 스택
+<<<<<<< HEAD
 
 - React , Hook , CSS
   <br>
@@ -16,6 +17,16 @@
 # preview
 
 ![블로그](https://user-images.githubusercontent.com/83548784/195351778-8e059a10-0d5f-4513-a40f-613f747c1b12.gif)
+=======
+-  React , Hook , CSS
+<br>
+<br>
+
+# preview
+![image](https://user-images.githubusercontent.com/83548784/181008600-cbd9aa4a-e401-4a0f-83fd-60469f67cb57.png)
+![image](https://user-images.githubusercontent.com/83548784/181008688-35735936-c5d6-4c28-8e09-35bd9f68cfaa.png)
+
+>>>>>>> 71608c7bc719d9af2a1fa9dbc4cbf4c02e46b3e7
 
 <br>
 <br>
